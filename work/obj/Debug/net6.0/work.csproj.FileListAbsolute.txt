@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\control work\control work\work\bin\Debug\net6.0\work.exe
+C:\Users\Пользователь\Desktop\control work\control work\work\bin\Debug\net6.0\work.deps.json
+C:\Users\Пользователь\Desktop\control work\control work\work\bin\Debug\net6.0\work.runtimeconfig.json
+C:\Users\Пользователь\Desktop\control work\control work\work\bin\Debug\net6.0\work.dll
+C:\Users\Пользователь\Desktop\control work\control work\work\bin\Debug\net6.0\work.pdb
+C:\Users\Пользователь\Desktop\control work\control work\work\obj\Debug\net6.0\work.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\control work\control work\work\obj\Debug\net6.0\work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\control work\control work\work\obj\Debug\net6.0\work.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\control work\control work\work\obj\Debug\net6.0\work.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\control work\control work\work\obj\Debug\net6.0\work.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\control work\control work\work\obj\Debug\net6.0\work.dll
+C:\Users\Пользователь\Desktop\control work\control work\work\obj\Debug\net6.0\refint\work.dll
+C:\Users\Пользователь\Desktop\control work\control work\work\obj\Debug\net6.0\work.pdb
+C:\Users\Пользователь\Desktop\control work\control work\work\obj\Debug\net6.0\work.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\control work\control work\work\obj\Debug\net6.0\ref\work.dll
